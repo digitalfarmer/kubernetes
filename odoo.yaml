@@ -121,7 +121,7 @@ metadata:
     type: local
 spec:
   accessModes:
-    - ReadWriteOnce
+    -ReadWriteOnce
   capacity:
     storage: 5Gi
   hostPath:
